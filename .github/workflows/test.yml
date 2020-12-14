@@ -1,4 +1,4 @@
-Name: changeset test
+name: changeset test
 
 on:
     push:
