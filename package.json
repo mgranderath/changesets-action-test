@@ -1,0 +1,15 @@
+{
+  "name": "changesets-action-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mgranderath/changesets-action-test.git",
+  "author": "mgranderath <malte.granderath+github@gmail.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "./packages/*"
+  ],
+  "dependencies": {
+    "@changesets/cli": "^2.12.0"
+  }
+}
